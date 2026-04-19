@@ -40,5 +40,5 @@ Grundlage für ein KI-basiertes System zur automatischen Bestelloptimierung in d
 
 ## Screenshots
 
-![Dashboard](static/images/ScreenshotMenumanager.png)
-![Einkauf](static/images/ScreenshotMenumanager2.png)
+![Dashboard](ScreenshotMenumanager.png)
+![Einkauf](ScreenshotMenumanager2.png)

@@ -1,4 +1,4 @@
-# Rezeptmanager & KI-Bestellsystem
+# Rezeptmanager & KI-Bestellsystem v0.1
 
 Ein webbasiertes System zur Verwaltung von Rezepten und automatischen Berechnung von Bestellmengen basierend auf Menüs und Personenanzahl.
 
